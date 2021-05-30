@@ -1,3 +1,4 @@
+//김경민학생과 같이 파일을 만든 후 합쳐서 파일 하나로 올립니다. 제가 user class 담당하였고 김경민 학생이 student, professor class담당을 하였습니다.
 #pragma once
 
 #include <iostream>
